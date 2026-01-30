@@ -7,5 +7,7 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
+  - title: "Lab Life"
+    url: /life/
   - title: "Contact"
     url: /contact/
