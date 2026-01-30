@@ -5,6 +5,9 @@ permalink: /people/
 ---
 ## Principal Investigator
 
+|  |  |
+|---|---|
+| <img src="/assets/images/lee_chengfan.png" alt="Dr. Cheng-Fan Lee" width="220" style="border-radius:12px;"> | **Dr. Cheng-Fan “Bryan” Lee (李丞釩)**  <br> Assistant Professor  <br> Department of Biochemistry and Molecular Biology  <br> Taipei Medical University  <br><br> Dr. Lee’s research focuses on **cancer resistance evolution**, investigating how cancers adapt to therapeutic pressure through transcriptional and metabolic remodeling, with an emphasis on prostate cancer, organoid models, and lipid metabolism. |
 **Dr. Cheng-Fan “Bryan” Lee (李丞釩)**  
 Assistant Professor  
 Department of Biochemistry and Molecular Biology  
